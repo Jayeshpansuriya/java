@@ -3,7 +3,7 @@ import java.util.*;
 
 public class HashMap {
     public static void main(String[]args){
-       HashMap<String,String> hmap1 = new HashMap<String,String >();  
+           HashMap<String,String> hmap1 = new HashMap<String,String >();  //here the one error 
 
         hmap1.put("jone",2345889);//here list will added in to the hasemap
         hmap1.put("jay",2345723);
